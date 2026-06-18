@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Thiago Ferreira de Araújo</h1>
-<h3 align="center">Estou fazendo uma transição para Ciência de dados área que gosto muito</h3>
+<h3 align="center">Estou fazendo uma transição de carreira para Ciência de dados área que gosto muito</h3>
 
 - 🔭 Atualmente estou concluindo meu TCC em Data Science **Previsão de Inadimplência acima 90 dias para Clientes de energia Distribuída (GD)**
 
